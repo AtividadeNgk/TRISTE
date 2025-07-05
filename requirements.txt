@@ -1,0 +1,5 @@
+Flask==2.3.2
+python-telegram-bot==20.3
+mercadopago==2.2.1
+requests==2.31.0
+pytz==2024.1
